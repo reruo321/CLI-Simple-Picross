@@ -1,5 +1,5 @@
 # CLI Simple Picross (Nonogram)
-A simple C++ CLI Picross Puzzle Game. I made the program a long ago...
+A simple C++ CLI Picross Puzzle Game for Windows.
 
 ![image](https://github.com/reruo321/CLI-Simple-Picross/assets/48712088/d100e2fe-132a-425c-b334-2b8a75470bbc)
 
