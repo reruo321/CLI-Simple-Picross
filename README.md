@@ -3,6 +3,8 @@ A simple C++ CLI Picross Puzzle Game for Windows.
 
 ![image](https://github.com/reruo321/CLI-Simple-Picross/assets/48712088/d100e2fe-132a-425c-b334-2b8a75470bbc)
 
+The numbers on the outer board mean the number of the coloring cells in a row or a column. Appropriately coloring the cells would make special figure come out.
+
 ## Specifications
 ### Use Case Diagram
 ![Use Case Diagram](https://github.com/reruo321/CLI-Simple-Picross/assets/48712088/1a98aba8-222e-45ff-b915-2f28c36a56e4)
